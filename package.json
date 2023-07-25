@@ -1,0 +1,12 @@
+{
+  "name": "fabricjs-custom-build",
+  "version": "1.0.0",
+  "description": "Custom build of Fabric.js",
+  "main": "index.min.js", // make sure this points to your custom build
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassirali007/fabricjs-custom-build.git"
+  },
+  "author": "Mudassir Ali",
+  "license": "ISC"
+}
